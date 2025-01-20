@@ -1,0 +1,16 @@
+{
+  "name": "Smack",
+  "version": "1.0.0",
+  "author": "Anil Hitang",
+  "dependencies": {
+    "three": "^0.172.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.0.9"
+  }
+}
