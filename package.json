@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "author": "Anil Hitang",
   "dependencies": {
-    "three": "^0.172.0"
+    "dat.gui": "^0.7.9",
+    "three": "^0.172.0",
+    "three.interactive": "^1.8.0"
   },
   "scripts": {
     "dev": "vite",
